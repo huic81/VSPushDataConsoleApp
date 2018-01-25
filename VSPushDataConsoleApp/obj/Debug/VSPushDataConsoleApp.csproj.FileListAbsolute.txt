@@ -1,0 +1,11 @@
+C:\Users\hsteh\source\repos\VSPushDataConsoleApp\VSPushDataConsoleApp\bin\Debug\VSPushDataConsoleApp.exe.config
+C:\Users\hsteh\source\repos\VSPushDataConsoleApp\VSPushDataConsoleApp\bin\Debug\VSPushDataConsoleApp.exe
+C:\Users\hsteh\source\repos\VSPushDataConsoleApp\VSPushDataConsoleApp\bin\Debug\VSPushDataConsoleApp.pdb
+C:\Users\hsteh\source\repos\VSPushDataConsoleApp\VSPushDataConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\hsteh\source\repos\VSPushDataConsoleApp\VSPushDataConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.WindowsForms.dll
+C:\Users\hsteh\source\repos\VSPushDataConsoleApp\VSPushDataConsoleApp\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+C:\Users\hsteh\source\repos\VSPushDataConsoleApp\VSPushDataConsoleApp\obj\Debug\VSPushDataConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\hsteh\source\repos\VSPushDataConsoleApp\VSPushDataConsoleApp\obj\Debug\VSPushDataConsoleApp.exe
+C:\Users\hsteh\source\repos\VSPushDataConsoleApp\VSPushDataConsoleApp\obj\Debug\VSPushDataConsoleApp.pdb
+C:\Users\hsteh\source\repos\VSPushDataConsoleApp\VSPushDataConsoleApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hsteh\source\repos\VSPushDataConsoleApp\VSPushDataConsoleApp\bin\Debug\Newtonsoft.Json.xml
